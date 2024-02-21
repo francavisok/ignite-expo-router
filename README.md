@@ -1,4 +1,4 @@
-# app generated with ignite and using expo-router following this recepie: 
+# App generated with ignite and using expo-router following this recepie: 
 
 https://ignitecookbook.com/docs/recipes/ExpoRouter#overview
 
