@@ -1,3 +1,7 @@
+# app generated with ignite and using expo-router following this recepie: 
+
+https://ignitecookbook.com/docs/recipes/ExpoRouter#overview
+
 # Welcome to your new ignited app!
 
 [![CircleCI](https://circleci.com/gh/infinitered/ignite.svg?style=svg)](https://circleci.com/gh/infinitered/ignite)
